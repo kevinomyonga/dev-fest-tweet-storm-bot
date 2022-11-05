@@ -1,0 +1,50 @@
+Astronaut's Log: An investment in knowledge pays the best interest.
+Astronaut's Log: Education is one thing no one can take away from you.Astronaut's Log: “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
+Astronaut's Log: First, solve the problem. Then, write the code.
+Astronaut's Log: Java is to JavaScript what car is to Carpet. If you know you know.
+Astronaut's Log: Sam says Protobuf trumps JSON. Get the pitch forks.
+Astronaut's Log: Simplicity is the soul of efficiency.
+Astronaut's Log: Before software can be reusable it first has to be usable.
+Astronaut's Log: Code is like humor. When you have to explain it, it’s bad.
+Astronaut's Log: Docker is a godsend.
+Astronaut's Log: Fix the cause, not the symptom.
+Astronaut's Log: Don't comment bad code - rewrite it.
+Astronaut's Log: Walking on water and developing software from a specification are easy if both are frozen.
+Astronaut's Log: I don't care if it works on your machine! We are not shipping your machine! Enter Docker.
+Astronaut's Log: Real programmers don't comment their code. If it was hard to write, it should be hard to understand.
+Astronaut's Log: If the code and the comments do not match, possibly both are incorrect.
+Astronaut's Log: Debugging becomes significantly easier if you first admit that you are the problem.
+Astronaut's Log: Your most unhappy customers are your greatest source of learning.
+Astronaut's Log: There is no cloud. Just someone else's computer.
+Astronaut's Log: The purpose of software engineering is to control complexity, not to create it.
+Astronaut's Log: As a programmer, it is your job to put yourself out of business. What you do today can be automated tomorrow.
+Astronaut's Log: A good programmer is someone who always looks both ways before crossing a one-way street.
+Astronaut's Log: Testing can only prove the presence of bugs, not their absence.
+Astronaut's Log: When I wrote this code, only God and I understood what I did. Now only God knows.
+Astronaut's Log: A son asked his father (a programmer) why the sun rises in the east, and sets in the west. His response? It works, don’t touch!
+Astronaut's Log: Copy-and-Paste was programmed by programmers for programmers actually.
+Astronaut's Log: Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live.
+Astronaut's Log: Algorithm: Word used by programmers when they don’t want to explain what they did.
+Astronaut's Log: Software and cathedrals are much the same — first we build them, then we pray.
+Astronaut's Log: There are two ways to write error-free programs; only the third works.
+Astronaut's Log: It works on my machine.
+Astronaut's Log: If you build it they will come. A mythical fairy tale that gives developers/engineers hope.
+Astronaut's Log: It compiles; ship it.
+Astronaut's Log: Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+Astronaut's Log: One: Demonstrations always crash. And two: The probability of them crashing goes up exponentially with the number of people watching.
+Astronaut's Log: Documentation is like sex: When it is bad, it is better than nothing. When it is good, it is really, really good.
+Astronaut's Log: Software undergoes beta testing shortly before it’s released. Beta is Latin for still doesn’t work.
+Astronaut's Log: There are only two kinds of programming languages out there. The ones people complain about and the ones no one uses.
+Astronaut's Log: I have come here to attend sessions and network... I'm all out of sessions.
+Astronaut's Log: C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off.
+Astronaut's Log: You need to stay relevant. Learn. Keep learning and learn some more.
+Astronaut's Log: Some people when confronted with a problem think, “I know, I’ll use regular expressions.” Now they have two problems.
+Astronaut's Log: If Java had true garbage collection, most programs would delete themselves upon execution.
+Astronaut's Log: There are 10 kinds of people in the world: Those who know binary and those who don’t.
+Astronaut's Log: Potential partners are like internet domain names — the ones I like are already taken.
+Astronaut's Log: Computers are good at following instructions but not at reading your mind.
+Astronaut's Log: Whitespace is never white. If you know you know.
+Astronaut's Log: When all else fails... reboot.
+Astronaut's Log: “Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime.” ― Muhammad Waseem
+Astronaut's Log: “Life would be much easier if I had the source code.” ― Anonymous
+Astronaut's Log: Coding is the closest thing to a super power in the modern day society.Astronaut's Log: “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin FowlerAstronaut's Log: Talk is cheap. Show me the code.
