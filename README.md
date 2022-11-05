@@ -43,4 +43,4 @@ You can follow me on
 
 Twitter: [@kevinomyonga](https://twitter.com/kevinomyonga).
 
-LinkedIn: [Kevin Omyonga](https://twitter.com/kevinomyonga).
+LinkedIn: [Kevin Omyonga](https://ke.linkedin.com/in/kevin-omyonga-37b65382).
